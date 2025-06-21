@@ -1,0 +1,9 @@
+streamlit
+openai
+qdrant-client
+sentence-transformers
+pandas
+python-docx
+pymupdf
+beautifulsoup4
+lxml
